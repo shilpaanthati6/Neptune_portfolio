@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0-next.1.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# Neptune_portfolio
+Repository contains programmer portfolio
+>>>>>>> ede30008603fa08114b1c303e1910bf6fb61bedd
